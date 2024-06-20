@@ -1,0 +1,1009 @@
+fileFormatVersion: 2
+guid: 3e201e5ab697b9f44a77e4f5adca6fb0
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: 02 Skull Merchant_Frame_0
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 256
+      height: 256
+    spriteID: 8f2a1b916a55e2a4e938300d63b0f66d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: 02 Skull Merchant_Frame_1
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 268
+      width: 256
+      height: 256
+    spriteID: 061bc338317250d4d934b88983e430f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 268}
+  - name: 02 Skull Merchant_Frame_2
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 532
+      width: 256
+      height: 256
+    spriteID: 1f1089d67de9901458f6ae3e71a7204a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 532}
+  - name: 02 Skull Merchant_Frame_3
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 796
+      width: 256
+      height: 256
+    spriteID: 86b254748d2dcd94a872de5bdd227a82
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 796}
+  - name: 02 Skull Merchant_Frame_4
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1060
+      width: 256
+      height: 256
+    spriteID: ecde7341dea5a4942a54619036810e0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1060}
+  - name: 02 Skull Merchant_Frame_5
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1324
+      width: 256
+      height: 256
+    spriteID: 07034654e1730fd4da5d24cd88c2feb6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1324}
+  - name: 02 Skull Merchant_Frame_6
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1588
+      width: 256
+      height: 256
+    spriteID: 4a887f1fbf473d9459919b29b615bd60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1588}
+  - name: 02 Skull Merchant_Frame_7
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 4
+      width: 256
+      height: 256
+    spriteID: 09198c4e51dd21a4e9b40cc8fd4637fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 4}
+  - name: 02 Skull Merchant_Frame_8
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 268
+      width: 256
+      height: 256
+    spriteID: 1619e74bc54b74a49ab0269fb963eab0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 268}
+  - name: 02 Skull Merchant_Frame_9
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 532
+      width: 256
+      height: 256
+    spriteID: e823460645b5c5a4e87abb6d14aa2026
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 532}
+  - name: 02 Skull Merchant_Frame_10
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 796
+      width: 256
+      height: 256
+    spriteID: 5d8d578a14c179a4eac5e737eabdf23e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 796}
+  - name: 02 Skull Merchant_Frame_11
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 1060
+      width: 256
+      height: 256
+    spriteID: d04db5808298ee640b2bad323c471505
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 1060}
+  - name: 02 Skull Merchant_Frame_12
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 1324
+      width: 256
+      height: 256
+    spriteID: dc8500e84e4596942914d3734492f794
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 1324}
+  - name: 02 Skull Merchant_Frame_13
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 1588
+      width: 256
+      height: 256
+    spriteID: a9d53fe668b08b74dbc6d2dcdfd7d58d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 1588}
+  - name: 02 Skull Merchant_Frame_14
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 4
+      width: 256
+      height: 256
+    spriteID: 02dd2c9f3f21fd143b4fc6e71d668984
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 532, y: 4}
+  - name: 02 Skull Merchant_Frame_15
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 268
+      width: 256
+      height: 256
+    spriteID: 4389f5efd4449b14a9175ae1bac1b406
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 532, y: 268}
+  - name: 02 Skull Merchant_Frame_16
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 532
+      width: 256
+      height: 256
+    spriteID: c05422b5683f9e24e9be2cbb92fa5632
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 532, y: 532}
+  - name: 02 Skull Merchant_Frame_17
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 796
+      width: 256
+      height: 256
+    spriteID: 2909c5cac7bf0e74996b973d1a605a51
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 532, y: 796}
+  - name: 02 Skull Merchant_Frame_18
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 1060
+      width: 256
+      height: 256
+    spriteID: e60e02776b663be4fa038c385b779ad0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 532, y: 1060}
+  - name: 02 Skull Merchant_Frame_19
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 1324
+      width: 256
+      height: 256
+    spriteID: 5713446541dec914387c4b9f3a32b175
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 532, y: 1324}
+  - name: 02 Skull Merchant_Frame_20
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 1588
+      width: 256
+      height: 256
+    spriteID: 271ee2d2e70116644bab2912abb0653b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 532, y: 1588}
+  - name: 02 Skull Merchant_Frame_21
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 796
+      y: 4
+      width: 256
+      height: 256
+    spriteID: e0d96b5c89eb65c49a1f44c0bddbf380
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 796, y: 4}
+  - name: 02 Skull Merchant_Frame_22
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 796
+      y: 268
+      width: 256
+      height: 256
+    spriteID: 0ad1035d1f922734e94365b168f9ce6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 796, y: 268}
+  - name: 02 Skull Merchant_Frame_23
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 796
+      y: 532
+      width: 256
+      height: 256
+    spriteID: 44c45d28259eab24b84c8362a2cc2f44
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 796, y: 532}
+  - name: 02 Skull Merchant_Frame_24
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 796
+      y: 796
+      width: 256
+      height: 256
+    spriteID: b8036ed8fb017684ea7a63053f30706d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 796, y: 796}
+  - name: 02 Skull Merchant_Frame_25
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 796
+      y: 1060
+      width: 256
+      height: 256
+    spriteID: f36033abc3febaf4da9d2360ae71b6b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 796, y: 1060}
+  - name: 02 Skull Merchant_Frame_26
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 796
+      y: 1324
+      width: 256
+      height: 256
+    spriteID: 7242634572861e34cb0942e86d064a35
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 796, y: 1324}
+  - name: 02 Skull Merchant_Frame_27
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 796
+      y: 1588
+      width: 256
+      height: 256
+    spriteID: 2d5877ede869772448c5e8bfcd40c609
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 796, y: 1588}
+  - name: 02 Skull Merchant_Frame_28
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1060
+      y: 4
+      width: 256
+      height: 256
+    spriteID: da255c2f952c3424d8b67b8ba619561f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1060, y: 4}
+  - name: 02 Skull Merchant_Frame_29
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1060
+      y: 268
+      width: 256
+      height: 256
+    spriteID: a9eeb08252bd11e478313e49ad7443f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1060, y: 268}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -634969263
+    name: 02 Skull Merchant
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: 02 Skull Merchant_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 8f2a1b916a55e2a4e938300d63b0f66d
+    - name: 02 Skull Merchant_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 061bc338317250d4d934b88983e430f3
+    - name: 02 Skull Merchant_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 1f1089d67de9901458f6ae3e71a7204a
+    - name: 02 Skull Merchant_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 86b254748d2dcd94a872de5bdd227a82
+    - name: 02 Skull Merchant_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: ecde7341dea5a4942a54619036810e0b
+    - name: 02 Skull Merchant_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 07034654e1730fd4da5d24cd88c2feb6
+    - name: 02 Skull Merchant_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 4a887f1fbf473d9459919b29b615bd60
+    - name: 02 Skull Merchant_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 09198c4e51dd21a4e9b40cc8fd4637fc
+    - name: 02 Skull Merchant_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 1619e74bc54b74a49ab0269fb963eab0
+    - name: 02 Skull Merchant_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: e823460645b5c5a4e87abb6d14aa2026
+    - name: 02 Skull Merchant_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 5d8d578a14c179a4eac5e737eabdf23e
+    - name: 02 Skull Merchant_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: d04db5808298ee640b2bad323c471505
+    - name: 02 Skull Merchant_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: dc8500e84e4596942914d3734492f794
+    - name: 02 Skull Merchant_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: a9d53fe668b08b74dbc6d2dcdfd7d58d
+    - name: 02 Skull Merchant_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 02dd2c9f3f21fd143b4fc6e71d668984
+    - name: 02 Skull Merchant_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 4389f5efd4449b14a9175ae1bac1b406
+    - name: 02 Skull Merchant_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: c05422b5683f9e24e9be2cbb92fa5632
+    - name: 02 Skull Merchant_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 2909c5cac7bf0e74996b973d1a605a51
+    - name: 02 Skull Merchant_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: e60e02776b663be4fa038c385b779ad0
+    - name: 02 Skull Merchant_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 5713446541dec914387c4b9f3a32b175
+    - name: 02 Skull Merchant_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 271ee2d2e70116644bab2912abb0653b
+    - name: 02 Skull Merchant_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: e0d96b5c89eb65c49a1f44c0bddbf380
+    - name: 02 Skull Merchant_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 0ad1035d1f922734e94365b168f9ce6b
+    - name: 02 Skull Merchant_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 44c45d28259eab24b84c8362a2cc2f44
+    - name: 02 Skull Merchant_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: b8036ed8fb017684ea7a63053f30706d
+    - name: 02 Skull Merchant_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: f36033abc3febaf4da9d2360ae71b6b1
+    - name: 02 Skull Merchant_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 7242634572861e34cb0942e86d064a35
+    - name: 02 Skull Merchant_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 2d5877ede869772448c5e8bfcd40c609
+    - name: 02 Skull Merchant_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: da255c2f952c3424d8b67b8ba619561f
+    - name: 02 Skull Merchant_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: a9eeb08252bd11e478313e49ad7443f7
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 192, y: 192}
